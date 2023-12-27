@@ -1,0 +1,163 @@
+[
+  {
+    "title": "Asus Ultra HD Monitor",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "A high-resolution 4K monitor with stunning color accuracy and wide viewing angles.",
+    "old_price": 499.99,
+    "new_price": "",
+    "rating": 4.5
+  },
+  {
+    "title": "TechGuard Smart Security Camera",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Wireless security camera with motion detection and night vision capabilities.",
+    "old_price": 129.99,
+    "new_price": 99.99,
+    "rating": 4.2
+  },
+  {
+    "title": "SoundMasters Wireless Bluetooth Earbuds",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Sleek and comfortable earbuds with noise cancellation and long battery life.",
+    "old_price": 79.99,
+    "new_price": 59.99,
+    "rating": 4.0
+  },
+  {
+    "title": "GamerTech Gaming Keyboard",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Mechanical gaming keyboard with customizable RGB lighting and programmable keys.",
+    "old_price": 119.99,
+    "new_price": "",
+    "rating": 4.7
+  },
+  {
+    "title": "SmartLife Smart Home Hub",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Central control for smart home devices with voice activation and compatibility with popular platforms.",
+    "old_price": 149.99,
+    "new_price": 129.99,
+    "rating": 4.3
+  },
+  {
+    "title": "Nvidia High-Performance Graphics Card",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Boost your gaming experience with a powerful graphics card for realistic visuals.",
+    "old_price": 399.99,
+    "new_price": 349.99,
+    "rating": 4.8
+  },
+  {
+    "title": "Wireless Charging Pad",
+    "brand": "Belkin",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Charge your compatible devices effortlessly with this sleek wireless charging pad.",
+    "old_price": 29.99,
+    "new_price": "",
+    "rating": 4.1
+  },
+  {
+    "title": "Seagate Portable External Hard Drive",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Expand your storage capacity with a compact and reliable external hard drive.",
+    "old_price": 89.99,
+    "new_price": "",
+    "rating": 4.4
+  },
+  {
+    "title": "Nest Smart Thermostat",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Energy-efficient thermostat with remote control and intelligent temperature adjustment.",
+    "old_price": 119.99,
+    "new_price": 99.99,
+    "rating": 4.6
+  },
+  {
+    "title": "Sony Noise-Canceling Headphones",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Immerse yourself in music or work with these premium noise-canceling headphones.",
+    "old_price": 199.99,
+    "new_price": "",
+    "rating": 4.9
+  },
+  {
+    "title": "DJI Compact Drone with Camera",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Capture stunning aerial footage with this easy-to-fly compact drone equipped with a camera.",
+    "old_price": 249.99,
+    "new_price": 199.99,
+    "rating": 4.2
+  },
+  {
+    "title": "FitConnect Smartwatch with Fitness Tracker",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Stay connected and track your fitness goals with this feature-packed smartwatch.",
+    "old_price": 169.99,
+    "new_price": 139.99,
+    "rating": 4.5
+  },
+  {
+    "title": "SwiftDrive Ultra-fast External SSD Drive",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Ultra-fast external SSD drive for quick data transfers and reliable storage.",
+    "old_price": 129.99,
+    "new_price": "",
+    "rating": 4.7
+  },
+  {
+    "title": "PrecisionPlay Mechanical Gaming Mouse",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Precision gaming mouse with customizable buttons and ergonomic design.",
+    "old_price": 69.99,
+    "new_price": 49.99,
+    "rating": 4.0
+  },
+  {
+    "title": "SmartGlow LED Light Bulbs",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Control your lighting with smart LED bulbs that offer various colors and dimming options.",
+    "old_price": 39.99,
+    "new_price": 29.99,
+    "rating": 4.3
+  },
+  {
+    "title": "SpeedLink High-Speed Wi-Fi Router",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Upgrade your home network with a high-speed Wi-Fi router for seamless connectivity.",
+    "old_price": 79.99,
+    "new_price": "",
+    "rating": 4.6
+  },
+  {
+    "title": "ClearView HD Webcam with Microphone",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "HD webcam with built-in microphone for clear video calls and online meetings.",
+    "old_price": 49.99,
+    "new_price": 39.99,
+    "rating": 4.1
+  },
+  {
+    "title": "SolarCharge Portable Charger",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Charge your devices on the go with a solar-powered portable charger for outdoor adventures.",
+    "old_price": 59.99,
+    "new_price": 49.99,
+    "rating": 4.4
+  },
+  {
+    "title": "CompactBeats Bluetooth Speaker",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Enjoy your favorite tunes with a compact Bluetooth speaker featuring rich sound quality.",
+    "old_price": 34.99,
+    "new_price": "",
+    "rating": 4.8
+  },
+  {
+    "title": "ConnectHub USB-C Docking Station",
+    "image": "https://i.ibb.co/y5TZYCm/asus-uw-monitor.webp",
+    "description": "Expand your laptop's connectivity with a USB-C docking station for multiple peripherals.",
+    "old_price": 89.99,
+    "new_price": "",
+    "rating": 4.2
+  }
+]
