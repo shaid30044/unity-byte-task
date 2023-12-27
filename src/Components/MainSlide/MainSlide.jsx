@@ -18,8 +18,10 @@ const MainSlide = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const res = await fetch("./slide1.json");
-      const data = setProducts(await res.json());
+      const res = await fetch("./data.json");
+      const data = await res.json();
+
+      setProducts(data);
     };
 
     fetchData();
